@@ -1,17 +1,19 @@
-import Header from './components/Header'
-import Main from './components/Main'
+/*import Header from './components/Header.jsx'
+import Main from './components/Main1.jsx'*/
 import './App.css'
+import Header from './components/Header'
+import Footer from './components/Post'
 
 function App() {
 
 
   return (
     <>
-      <Header/>
+      <Header />
       <div className='container'>
         <header>Cristian</header>
-        <Main />
       </div>
+      <Footer />
     </>
   )
 }
