@@ -14,7 +14,7 @@ function App() {
     <>
       <Header />
       <div className='container'>
-        <header>Cristian</header>
+        <header className='header'>Cristian</header>
         <Main />
         <Aside />
         <Post />

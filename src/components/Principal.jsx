@@ -2,7 +2,7 @@ import Article from "./Article"
 
 const Main = () => {
   return(
-    <main>
+    <main className="content">
       <Article />
       <Article />
       <Article />

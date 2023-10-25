@@ -1,6 +1,6 @@
 const Post = () => {
   return(
-    <div>Another post</div>
+    <div className="related-post">Another post</div>
   )
 }
 

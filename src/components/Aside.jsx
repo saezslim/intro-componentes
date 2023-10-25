@@ -2,7 +2,7 @@ import AsideDiv from "./AsideDiv"
 
 const Aside = () => {
   return(
-    <aside>
+    <aside className="sidebar">
       <AsideDiv />
       <AsideDiv />
       <AsideDiv />
